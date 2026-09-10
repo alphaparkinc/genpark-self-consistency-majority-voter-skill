@@ -1,0 +1,15 @@
+{
+  "name": "genpark-self-consistency-majority-voter-skill",
+  "version": "1.0.0",
+  "description": "Self-Consistency majority voting engine aggregating multiple stochastic reasoning paths to extract high-confidence consensus solutions.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "self-consistency",
+    "majority-voting",
+    "reasoning-consensus",
+    "agent-ensembles"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
